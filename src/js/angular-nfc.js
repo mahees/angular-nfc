@@ -1,3 +1,4 @@
+//cordova plugin add com.chariotsolutions.nfc.plugin
 (function(angular) {
     'use strict';
 

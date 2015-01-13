@@ -4,13 +4,12 @@
   "authors": [
     "mahees ishaq <mahees.ishaq@gmail.com>"
   ],
-  "description": "NFC wrapper for phonegap-nfc for angular and ionic",
+  "description": "NFC wrapper (+using promises) for phonegap-nfc for angular and ionic",
   "main": "src/js/angular-nfc.js",
   "keywords": [
     "angular",
     "nfc",
     "ionic",
-    "don",
     "nfcservice",
     "phonegap",
     "ndef"
